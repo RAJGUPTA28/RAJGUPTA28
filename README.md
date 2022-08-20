@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node JS , Express JS ,Machine Learning and Tensorflow**
 
-- 👨‍💻 All of my projects are available at [**My Projects**](https://github.com/RAJGUPTA28?tab=repositories)
+- 👨‍💻 All of my projects are available at [**My Projects**](https://github.com/RAJGUPTA28?tab=repositories) **,** [**Data Science Projects**](https://docs.google.com/document/d/1CI-G6E2t-tuyEp3ZBBot6IaMsiGFF5FplShtVq6JAhg/edit?usp=sharing)
 
 - 📫 How to reach me **rajgupta282002@gmail.com**
 
