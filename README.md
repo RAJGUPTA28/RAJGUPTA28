@@ -1,4 +1,4 @@
--<h1 align="center">Hi 👋, I'm Raj Gupta</h1>
+<h1 align="center">Hi 👋, I'm Raj Gupta</h1>
 <h3 align="center">A passionate Software Developer , Data Science Enthusiast and Web Developer from India</h3>
 <h4 align="center">📚📝IT undergrad at NIT Jalandhar (2024 Batch)</h4>
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [**My Projects**](https://github.com/RAJGUPTA28?tab=repositories) **,** [**Data Science Projects**](https://docs.google.com/document/d/1CI-G6E2t-tuyEp3ZBBot6IaMsiGFF5FplShtVq6JAhg/edit?usp=sharing)
 
-- 📫 How to reach me **rajgupta282002@gmail.com**
+- 📫 How to reach me **[Email:- RajGupta](rajgupta282002@gmail.com)**
 
 - 📄 Know about my experiences [**Resume**](https://docs.google.com/document/d/1CI-G6E2t-tuyEp3ZBBot6IaMsiGFF5FplShtVq6JAhg/edit?usp=sharing)
 
