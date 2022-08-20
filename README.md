@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajgupta28" alt="rajgupta28" /></a> </p>
 
-- 🌱 I’m currently learning **Node JS , Express ,Machine Learning and Tensorflow**
+- 🌱 I’m currently learning **Node JS , Express JS ,Machine Learning and Tensorflow**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RAJGUPTA28?tab=repositories](https://github.com/RAJGUPTA28?tab=repositories)
+- 👨‍💻 All of my projects are available at [**My Projects**](https://github.com/RAJGUPTA28?tab=repositories)
 
 - 📫 How to reach me **rajgupta282002@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1CI-G6E2t-tuyEp3ZBBot6IaMsiGFF5FplShtVq6JAhg/edit?usp=sharing](https://docs.google.com/document/d/1CI-G6E2t-tuyEp3ZBBot6IaMsiGFF5FplShtVq6JAhg/edit?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://docs.google.com/document/d/1CI-G6E2t-tuyEp3ZBBot6IaMsiGFF5FplShtVq6JAhg/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
