@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajgupta28&label=Profile%20views&color=0e75b6&style=flat" alt="rajgupta28" /> </p>
 
 
-- 🌱 I’m currently learning **Node JS , Express JS ,Machine Learning and Tensorflow**
+- 🌱 I’m currently learning **Node JS , React JS ,Machine Learning and Tensorflow**
 
 - 👨‍💻 All of my projects are available at [**My Projects**](https://github.com/RAJGUPTA28?tab=repositories) **,** [**Data Science Projects**](https://docs.google.com/document/d/1CI-G6E2t-tuyEp3ZBBot6IaMsiGFF5FplShtVq6JAhg/edit?usp=sharing)
 
