@@ -34,7 +34,10 @@
 
 
 ## Stats📈
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajgupta28&show_icons=true&locale=en&layout=compact" alt="rajgupta28" /></p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajgupta28&show_icons=true&locale=en&layout=compact" alt="rajgupta28" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajgupta28&show_icons=true&locale=en" alt="rajgupta28" /></p>
 
