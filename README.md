@@ -20,30 +20,24 @@
 [![Leetcode](https://img.shields.io/badge/Leetcode-%231DA1F2.svg?logo=Leetcode&logoColor=yellow)](https://leetcode.com/RAJ_GUPTA28/)
 
 
-# My Project
-
-![C++](https://github.com/github/explore/raw/main/topics/cpp/cpp.png)
-![C](https://github.com/github/explore/raw/main/topics/c/c.png)
-![Python](https://github.com/github/explore/raw/main/topics/python/python.png)
-![MySQL](https://github.com/github/explore/raw/main/topics/mysql/mysql.png)
-
-## Libraries
-
-![Pandas](https://github.com/github/explore/raw/main/topics/pandas/pandas.png)
-![NumPy](https://github.com/github/explore/raw/main/topics/numpy/numpy.png)
-![SciPy](https://github.com/github/explore/raw/main/topics/scipy/scipy.png)
-![scikit-learn](https://github.com/github/explore/raw/main/topics/scikit-learn/scikit-learn.png)
-![TensorFlow](https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png)
-![Keras](https://github.com/github/explore/raw/main/topics/keras/keras.png)
-![PyTorch](https://github.com/github/explore/raw/main/topics/pytorch/pytorch.png)
-
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Tensorflow](https://img.shields.io/badge/tensorflow-%23000000.svg?style=for-the-badge&logo=Tensorflow&logoColor=#00C7B7) ![Keras](https://img.shields.io/badge/keras-%23000000.svg?style=for-the-badge&logo=keras&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Scikit](https://img.shields.io/badge/scikit-%23404d59.svg?style=for-the-badge&logo=scikit&logoColor=%2361DAFB) ![Pandas](https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/numpy-%230769AD.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-black?style=for-the-badge&logo=pinecone&logoColor=white) ![Pytorch](https://img.shields.io/badge/pytorch-6DA55F?style=for-the-badge&logo=pytorch&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-FF6C37?style=for-the-badge&logo=flutter&logoColor=white)![Seaborn](https://img.shields.io/badge/seaborn-FF6C37?style=for-the-badge&logo=seaborn&logoColor=white)
+
+
+
+
+
+## Coding Stats📈
+![LeetCode Stats](https://leetcard.jacoblin.cool/RAJ_GUPTA28?theme=dark&font=Noto%20Sans%20Adlam&ext=heatmap)    [![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rajgupta282002)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+
+
+## Stats📈
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajgupta28&show_icons=true&locale=en&layout=compact" alt="rajgupta28" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajgupta28&show_icons=true&locale=en" alt="rajgupta28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajgupta28&" alt="rajgupta28" /></p>
+
 
