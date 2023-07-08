@@ -17,7 +17,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-gupta-510534118/) 
-[![Leetcode](https://img.shields.io/badge/Leetcode-%231DA1F2.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/RAJ_GUPTA28/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-%231DA1F2.svg?logo=Leetcode&logoColor=yellow)](https://leetcode.com/RAJ_GUPTA28/)
 
 
 <h3 align="left">Languages and Tools:</h3>
