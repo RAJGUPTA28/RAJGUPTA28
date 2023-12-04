@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning ,Deep Learning and Tensorflow**
 
-- 👨‍💻 All of my projects are available at [**My Projects**](https://github.com/RAJGUPTA28?tab=repositories) **
+- 👨‍💻 All of my projects are available at [**My Projects**](https://github.com/RAJGUPTA28?tab=repositories) 
 
 - 📫 How to reach me **[Email:- RajGupta]( rajgupta282002@gmail.com )**
 
