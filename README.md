@@ -30,8 +30,8 @@
 
 
 ## Coding Stats📈
-![LeetCode Stats](https://leetcard.jacoblin.cool/RAJ_GUPTA28?theme=dark&font=Noto%20Sans%20Adlam&ext=heatmap)   
-[![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rajgupta282002)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+![LeetCode Stats](https://leetcard.jacoblin.cool/RAJ_GUPTA28?theme=dark&font=Noto%20Sans%20Adlam&ext=heatmap)   [![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rajgupta282002)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+
 
 ## Stats📈
 
