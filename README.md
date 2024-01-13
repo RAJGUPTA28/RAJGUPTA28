@@ -47,10 +47,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajgupta28&" alt="rajgupta28" /></p>
 
 
-<p align="center">
-<!-- <img width="88%" src="https://activity-graph.herokuapp.com/graph?username=ssahibsingh&theme=react-dark&hide_border=true"> -->
-<!-- <img width="88%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ssahibsingh&theme=react-dark&hide_border=true"> -->
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajgupta28&theme=react-dark&hide_border=true">
-<!-- <img width="88%" src="https://github-readme-activity-graph.ssahibsingh.repl.co/graph?username=ssahibsingh&theme=react-dark&hide_border=true"> -->
 
 
