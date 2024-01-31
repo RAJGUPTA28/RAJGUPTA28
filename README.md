@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajgupta28&label=Profile%20views&color=0e75b6&style=flat" alt="rajgupta28" /> </p>
 
 
-- 🌱 I’m currently learning **Django Backend , Deep Learning and Prompt Engineering**
+- 🌱 I’m currently learning **Backend , Deep Learning and Prompt Engineering**
 
 - 👨‍💻 All of my projects are available at [**My Projects**](https://github.com/RAJGUPTA28?tab=repositories) 
 
