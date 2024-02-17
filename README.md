@@ -36,5 +36,21 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RAJ_GUPTA28?theme=dark&font=Noto%20Sans%20Adlam&ext=heatmap)   [![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rajgupta282002)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
 ## Stats📈
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajgupta28&show_icons=true&locale=en&layout=compact" alt="rajgupta28" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajgupta28&show_icons=true&locale=en" alt="rajgupta28" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajgupta28&" alt="rajgupta28" /></p>
+
+<p align="center">
+<!-- <img width="88%" src="https://activity-graph.herokuapp.com/graph?username=ssahibsingh&theme=react-dark&hide_border=true"> -->
+<!-- <img width="88%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ssahibsingh&theme=react-dark&hide_border=true"> -->
+<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajgupta28&theme=react-dark&hide_border=true">
+<!-- <img width="88%" src="https://github-readme-activity-graph.ssahibsingh.repl.co/graph?username=ssahibsingh&theme=react-dark&hide_border=true"> -->
+
+
+
 
 
