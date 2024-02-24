@@ -36,7 +36,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RAJ_GUPTA28?theme=dark&font=Noto%20Sans%20Adlam&ext=heatmap)   [![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rajgupta282002)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
 ## Stats📈
-x
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajgupta28&show_icons=true&locale=en" alt="rajgupta28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajgupta28&" alt="rajgupta28" /></p>
